@@ -6,4 +6,4 @@ export class SpaceLocation {
        this.name = name;
        this.kilometersAway = kilometersAway;
     }
- }// Paste in the provided code here:
+ }
